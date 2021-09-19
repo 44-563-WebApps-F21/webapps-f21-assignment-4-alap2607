@@ -19,3 +19,22 @@ p{
 .Gerald{
     color: darkblue;
 }
+.table, td, th{
+    border: solid black 1px;
+    border-collapse:collapse;
+    width:auto;
+    margin: left;
+    text-align: left;
+    padding: 15px;
+    border-spacing: 5px;
+    background-color: whitesmoke;
+    }
+    th{
+        background-color:coral;
+    }
+    td{
+        background-color:wheat;
+    }
+
+    
+
