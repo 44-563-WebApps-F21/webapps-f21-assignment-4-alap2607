@@ -3,6 +3,6 @@ A practice assignment for HTML with CSS
 
 <html>
 <body>
-<a href=" https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-alap2607/">Hosted at</a>
+<a href="https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-alap2607/">Hosted at</a>
 </body>
 </html>
