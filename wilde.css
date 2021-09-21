@@ -54,4 +54,10 @@ p{
     .hunstanton:hover{
         text-shadow: 5px 7px orangered;
     }
+    img{
+        border-radius: 10px;
+        margin-left: 30px;
+        width:300px;
+        height: 200px;
+    }
 
